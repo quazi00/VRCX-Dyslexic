@@ -1,6 +1,3 @@
-
-# VRCX-Dyslexic
-
 ## What is VRCX-Dyslexic?
 VRCX-Dyslexic is a simple integration of the <a href="https://opendyslexic.org">OpenDyslexic</a> font for VRCX.  
 This font makes the bottom of letters thicker and more unique, making it easier to read for people with dyslexia or those who have difficulty reading simplistic fonts.
